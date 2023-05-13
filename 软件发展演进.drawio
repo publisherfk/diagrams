@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T05:33:19.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.3.0" etag="Tz81pAIVLGWtlQhgS56B" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T05:59:44.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xgMKKcSYB3xqtMnOwjBQ" version="21.3.0" type="github">
   <diagram name="第 1 页" id="D3ajWMh-z9HwZhNk6nXG">
-    <mxGraphModel>
+    <mxGraphModel dx="1055" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sxUmogROJCtG7Z15o5Cg-1" value="应用层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxUmogROJCtG7Z15o5Cg-2" value="存储层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxUmogROJCtG7Z15o5Cg-3" value="展示层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
