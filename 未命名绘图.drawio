@@ -1,14 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T10:03:49.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EZNRc13FuJDgwKQVc7oW" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T10:25:31.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="my_bd0dX68Jor1kaCRGB" version="21.6.9" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="2783.5" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="3224.5" dy="2326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="23046e2b9bb16c14-116" value="流程管理平台技术架构" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=none;strokeWidth=2;fillColor=#009BFF;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=3;verticalAlign=top;spacingTop=4;" parent="1" vertex="1">
-          <mxGeometry x="-29" y="-320" width="1180" height="550" as="geometry" />
+        <mxCell id="23046e2b9bb16c14-116" value="流程管理平台技术架构" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#f7f7f7;strokeWidth=2;fillColor=#31A5F3;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=4;verticalAlign=top;spacingTop=4;" parent="1" vertex="1">
+          <mxGeometry x="-29" y="-790" width="1179" height="820" as="geometry" />
         </mxCell>
         <mxCell id="23046e2b9bb16c14-114" value="Subtitle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=10;fontColor=#009BFF;" parent="1" vertex="1">
           <mxGeometry x="114" y="90" width="1526" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-7" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;支撑服务层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009bff;strokeColor=#cfcece;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-8" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;存储技术层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009bff;strokeColor=#cfcece;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-220" width="126" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-11" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;基础服务层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009bff;strokeColor=#cfcece;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-390" width="126" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-12" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;服务应用层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009bff;strokeColor=#cfcece;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-13" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;网关控制层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009bff;strokeColor=#cfcece;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-14" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;前端展示层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009bff;strokeColor=#cfcece;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009bff;strokeColor=#cfcece;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-50" width="1010" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-23" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;服务器集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-24" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;数据库集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-25" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;缓存服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-26" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;中间件服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-27" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;安全防护&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-28" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;缓存服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-45" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#009bff;strokeColor=#cfcece;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-220" width="1010" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-30" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;服务器集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-210" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-31" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;数据库集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-135" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-32" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;缓存服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-135" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-33" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;中间件服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-135" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-34" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;安全防护&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-135" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UWyep0ME4qAoA4ehD5Nu-35" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;缓存服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3F8DF3;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-135" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
